@@ -1,0 +1,6 @@
+*.json
+myenv/*
+logs
+pdfs/*
+*.pdf
+*.txt
