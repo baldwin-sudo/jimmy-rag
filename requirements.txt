@@ -1,0 +1,4 @@
+langchain
+elasticsearch
+elasticsearch-py
+replicate
